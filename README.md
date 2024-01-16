@@ -27,3 +27,5 @@ python x_run_cli.py -f pic_folder/xxx
 ```
 python x_run_cli_folder.py -f pic_folder
 ```
+
+更多详细的内容可以参考原作者[README](https://github.com/pharmapsychotic/clip-interrogator/blob/main/README.md)
